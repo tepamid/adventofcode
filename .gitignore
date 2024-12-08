@@ -1,0 +1,5 @@
+**/*.out
+**/test0
+**/gt0
+
+.vscode
